@@ -1,3 +1,5 @@
+Refer tp CSC555_Term Paper for a complete understanding of the project.
+
 How to execute the project.
 
 Prerequisites:
